@@ -1,0 +1,10 @@
+<library path="lib/liblaser_odometry_srf">
+
+  <class type="laser_odometry::LaserOdometrySrf" base_class_type="laser_odometry::LaserOdometryBase">
+   <description>
+   The srf scan matcher plugin.
+   </description>
+  </class>
+
+</library>
+
